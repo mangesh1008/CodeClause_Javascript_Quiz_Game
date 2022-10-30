@@ -1,1 +1,1 @@
-# CodeClause_Javascript_Quiz_Game
+# javascript-quiz-project
